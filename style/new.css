@@ -1,0 +1,27 @@
+p{
+    background-color: cadetblue;
+    border-radius: 10px;
+    border: solid black;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.box{
+    background-color: blue;
+    border-radius: 20px;
+    padding: 100px;
+    height: 20px;
+    width: 150px;
+    margin-left: 200px;
+    box-shadow: 10px 10px 10px violet;
+}
+
+#para{
+background-color: white;
+}
+#para2{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   background-color: aliceblue;
+}
+.display-box{
+    display: none;
+}
